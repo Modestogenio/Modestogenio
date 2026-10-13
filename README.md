@@ -1,3 +1,8 @@
+### 🌐 Sitio Web Oficial & CV Interactivo (Acceso Global 24/7):
+👉 **[Ver Currículum Interactivo y Portafolio en Vivo (GitHub Pages)](https://modestogenio.github.io/)** | 📥 **[Descargar CV ATS (PDF)](https://modestogenio.github.io/marcelo-corales-CV-ATS.pdf)**
+
+---
+
 # Marcelo Javier Corales Tobar
 ### Seguridad Privada · Prevención de Pérdidas · Continuidad Operacional · K9 Detection Trainer
 
