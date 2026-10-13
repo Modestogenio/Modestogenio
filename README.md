@@ -30,8 +30,9 @@ Este portafolio centraliza de forma exclusiva desarrollos e iniciativas tecnoló
 * **¿Qué resuelve?:** Herramienta táctica para instructores y guías caninos en pistas de adiestramiento, inspección vehicular o paquetería, registrando pasadas, alertas positivas y falsos positivos en tiempo real.
 * **Stack:** JavaScript Vanilla, Chart.js, LocalStorage, PWA.
 
-### 3. [Gestor de Seguridad Operacional & CCTV Multisucursal](https://github.com/Modestogenio/GestorSeguridad)
-* **Vertical:** Seguridad Corporativa · Retail y Control de Incidentes
+### 3. Gestor de Seguridad Operacional & CCTV Multisucursal *(Repositorio Privado · NDA)*
+* **Vertical:** Seguridad Corporativa · Retail Multisucursal y Control de Incidentes
+* **Estado:** 🔒 Código propietario resguardado bajo acuerdo de confidencialidad y secreto industrial (NDA). Demostración funcional y de arquitectura disponible en entrevista técnica.
 * **¿Qué resuelve?:** Plataforma de bitácora digital para centrales de seguridad (SOC). Centraliza el registro de novedades nocturnas, fiscalización de cobertura de guardias bajo Directivas OS10, auditoría de fallas en grabadores CCTV multisucursal y generación de mapas de calor delictual.
 * **Stack:** Python FastAPI, Electron Desktop, React, SQLite/PostgreSQL, Generación automatizada de informes periciales en DOCX/PDF.
 
